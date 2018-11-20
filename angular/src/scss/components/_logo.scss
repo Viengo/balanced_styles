@@ -1,0 +1,11 @@
+ .logo {
+   display: block;
+    font-size: 0;
+    @include breakpoint(extra-small){
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    img {
+      max-width: 178px;
+    }
+  }

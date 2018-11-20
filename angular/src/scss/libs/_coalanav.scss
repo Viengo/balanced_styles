@@ -1,0 +1,98 @@
+/**
+ * Clearfix
+ */
+.navigation-menu--is-desktop ul:before, .navigation-menu--is-desktop ul:after {
+  content: " ";
+  display: table;
+}
+.navigation-menu--is-desktop ul:after {
+  clear: both;
+}
+
+/**
+ * Cheap fix to get rid of bullets in IE 10/11
+ */
+
+/**
+ * Mobile and desktop sizes
+ */
+.navigation-menu--is-mobile {
+  margin: 0 -15px;
+}
+.navigation-menu--is-mobile ul,
+.navigation-menu--is-desktop ul {
+  margin: 0;
+  padding: 0;
+}
+.navigation-menu--is-mobile li,
+.navigation-menu--is-desktop li {
+  list-style: none;
+}
+.navigation-menu--is-mobile a,
+.navigation-menu--is-desktop a {
+  display: block;
+}
+
+/**
+ * Mobile sizes
+ */
+.navigation-menu--is-mobile ul {
+  display: none;
+}
+.navigation-menu--is-mobile li {
+  position: relative;
+}
+.navigation-menu--is-mobile li span {
+  z-index: 10;
+  position: absolute;
+  right: 15px;
+  top: -5px;
+  display: block;
+  font-size: 36px;
+  cursor: pointer;
+}
+.navigation-menu--is-mobile .navigation-menu__mobile-toggle {
+  cursor: pointer;
+  display: block;
+  height: 1px;
+  position: relative;
+}
+.navigation-menu--is-mobile .navigation-menu__mobile-toggle.btn-align-right:before {
+  left: auto;
+  right: 10px;
+}
+.navigation-menu--is-mobile .navigation-menu__mobile-toggle:before {
+  display: block;
+  content: "";
+  position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.navigation-menu--is-mobile.child-menu-open > ul,
+.navigation-menu--is-mobile .child-menu-open > ul {
+  display: block;
+}
+
+/**
+ * Desktop sizes
+ */
+.navigation-menu--is-desktop ul ul {
+  display: none;
+}
+.navigation-menu--is-desktop ul li {
+  position: relative;
+}
+
+.navigation-menu--is-desktop ul ul ul {
+  left: 140px;
+  top: 0;
+}
+.navigation-menu--is-desktop ul li:hover > ul {
+  display: block;
+  z-index: 5;
+}
+.navigation-menu--is-desktop .navigation-menu__mobile-toggle li>span,
+.navigation-menu--is-desktop li>span {
+  display: none;
+}

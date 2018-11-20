@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a42ed971-08a9-44d6-8180-33bb0f9c0816" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/assets/images/faq/utf-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/assets/images/faq/utf-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/assets/images/faq/utf-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/catalog/catalog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/catalog/catalog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/catalog/catalog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/absolute-layer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/absolute-opacity.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/absolute-result.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/articles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/baner-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/baner-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/baner-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/basic-css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/before-after.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/before-decor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/bootstrap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/border-box.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/box-sizing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/camera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/cascading.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/catalog-item.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/catalog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/clear-after.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/clear-left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/clear.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/cmd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/code-style.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/components.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/css-syntax.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/current-file.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/element-structure.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/expample-css-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/expample-css.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/faq-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/filter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/fixed-top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/float-fail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/float-left.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/float-luck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/float-problem.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/float.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-result.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/form-stage-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gem-install.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gfonts-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gfonts-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gfonts-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gfonts-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/gfonts-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/include-scss.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inline-block-space.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inline-block-stage-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inline-block-stage-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inline-block-stage-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inline-block.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-padding-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-padding-top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-result.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-stage-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-stage-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list-stage-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inner-list.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/inspector-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/koalnav-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/koalnav-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/layout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/list-inside.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/list-outside.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/margin-auto.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/margin-bottom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/margin-collapse.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/margin-padding.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/marker-list.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/mixin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/modal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/number-list.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/padding.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/page-speed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/parent-scss.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/phone-mask.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/photoshop-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/position-calc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/position-stock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/reviews.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/ruby.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/sass-import.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/sass-structure.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/scripts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/slick-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/slick-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/slick-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/sly-scroll.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/sprites.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/storm-compass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/structure.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/syntax-error.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/syntax.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/utf-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/utf-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/utf-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/variable.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/vlojennost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/widget-cart.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/faq/widgets.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/arrow-l-h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/arrow-l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/arrow-r-h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/arrow-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/basket-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/basket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/button-sign-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/buy-cursor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/buy-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/delete-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/filter-back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/ls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/menu-button-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/menu-button-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/menu1-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/menu2-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/od.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/select-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/slick-arrow-l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/slick-arrow-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/icons/vk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/img-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/lesson-1/res-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/megasite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/portfolio/folio-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/portfolio/folio-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/images/faq/utf-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/images/faq/utf-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/images/faq/utf-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/main.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/courses.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/angular.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app-routing.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app.component.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/textpage/textpage.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/textpage/textpage.component.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/textpage/textpage.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/app/textpage/textpage.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/browserslist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_aside-banner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_date.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_logo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_person.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_phone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_selected-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/components/_to-top.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/layouts/_catalog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/layouts/_faq-example.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/layouts/_faq.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/layouts/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/layouts/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_coalanav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_fancybox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_pretty.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_scrollbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_selectbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/libs/_timecircles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/mixins/_placeholder.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/mixins/_user-select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/scss/modules/header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/src/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/polyfills.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/runtime.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/styles.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/vendor.js.map" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-routing.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/src/app/app-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textpage.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <marker date="1542716234092" expanded="true" signature="37:4459" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="80:1060" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="1108:1631" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="1639:2034" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="2042:2250" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="2258:2718" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="2808:3830" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="3861:3955" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="4057:4117" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="4228:4357" ph="..." />
+                <marker date="1542716234092" expanded="true" signature="4388:4452" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/styles.scss" />
+        <option value="$PROJECT_DIR$/src/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/sidebar/sidebar.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/textpage/textpage.component.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/angular/angular.json" />
+        <option value="$PROJECT_DIR$/angular/package.json" />
+        <option value="$PROJECT_DIR$/angular/src/styles.scss" />
+        <option value="$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.scss" />
+        <option value="$PROJECT_DIR$/angular/src/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/angular/src/app/textpage/textpage.component.scss" />
+        <option value="$PROJECT_DIR$/angular/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/lesson1.php" />
+        <option value="$PROJECT_DIR$/angular/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/angular/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/angular/src/app/app.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1448" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courses" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="E:\work\angular\courses\node_modules\tslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\angular\courses\angular" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a42ed971-08a9-44d6-8180-33bb0f9c0816" name="Default" comment="" />
+      <created>1542694543729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542694543729</updated>
+      <workItem from="1542694544916" duration="1000000" />
+      <workItem from="1542714032156" duration="825000" />
+      <workItem from="1542715222091" duration="2294000" />
+      <workItem from="1542724120274" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4508000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45612136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <marker date="1542716234092" expanded="true" signature="37:4459" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="80:1060" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="1108:1631" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="1639:2034" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2042:2250" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2258:2718" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2808:3830" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="3861:3955" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4057:4117" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4228:4357" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4388:4452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="86" lean-forward="false" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/dist/courses/index.html" />
+    <entry file="file://$PROJECT_DIR$/angular/dist/courses/index.html" />
+    <entry file="file://$PROJECT_DIR$/angular/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/sidebar/sidebar.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <marker date="1542716234092" expanded="true" signature="37:4459" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="80:1060" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="1108:1631" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="1639:2034" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2042:2250" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2258:2718" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="2808:3830" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="3861:3955" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4057:4117" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4228:4357" ph="..." />
+            <marker date="1542716234092" expanded="true" signature="4388:4452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/textpage/textpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

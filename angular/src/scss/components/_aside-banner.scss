@@ -1,0 +1,17 @@
+.aside-banner {
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  @include breakpoint(small){
+    display: none;
+  }
+  @include breakpoint(extra-small){
+    display: none;
+  }
+  img {
+    max-width: 244px;
+    @include breakpoint(middle){
+      max-width: 212px;
+    }
+  }
+}

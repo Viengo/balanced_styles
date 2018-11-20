@@ -1,0 +1,148 @@
+.faq {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  .faq-img-wrap {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    img {
+      max-width: 100%;
+      vertical-align: top;
+    }
+  }
+  .selected-word {
+    padding: 0 10px;
+    background-color: #111;
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffd700;
+    border-radius: 15px;
+  }
+  .selected-text {
+    margin-bottom: 25px;
+    padding: 20px;
+    background-color: #111;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: italic;
+    color: #ffd700;
+    border-radius: 15px;
+  }
+  .code-wrap {
+    overflow: auto;
+    max-width: 90%;
+    max-height: 500px;
+    margin: 10px auto 25px;
+    padding: 15px;
+    background-color: #111;
+    font-size: 16px;
+    line-height: 1.2;
+    list-style: none;
+    color: #fff;
+    border-radius: 10px;
+    xmp {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+    //pre {
+    //  background-color: #fff;
+    //  color: #4C47AD;
+    //  .bg {
+    //    background-color: #ECECEC;
+    //  }
+    //  .nc {
+    //    color: #3526F9;
+    //  }
+    //  .vc {
+    //    color: #00C700;
+    //  }
+    //}
+  }
+  .manual-element {
+    margin-bottom: 20px;
+    font-size: 16px;
+    .show-all {
+      display: inline-block;
+      width: 125px;
+      padding: 2px 20px;
+      background-color: #ef9300;
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    .hidden-text {
+      display: none;
+      margin-top: 20px;
+      padding: 15px;
+      border: 2px solid #00C700;
+      border-radius: 5px;
+      .selected-word {
+        color: #00C700;
+      }
+    }
+  }
+  .col-element {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid #00C700;
+    background-color: #000;
+  }
+  .inner-element {
+    max-width: 350px;
+    height: 330px;
+    margin: 0 auto;
+    border: 1px solid #0000ff;
+    background-color: #ffd700;
+    &>div {
+      display: none;
+      padding-top: 100px;
+      font-size: 48px;
+      font-weight: 700;
+      text-align: center;
+      color: #fff;
+    }
+    @include breakpoint(large){
+      .large {
+        display: block;
+      }
+    }
+    @include breakpoint(middle){
+      .middle {
+        display: block;
+      }
+    }
+    @include breakpoint(small){
+      .small {
+        display: block;
+      }
+    }
+    @include breakpoint(extra-small){
+      .extra-small {
+        display: block;
+      }
+    }
+  }
+  &.trouble-shooter {
+    table {
+      width: 100%;
+      margin-bottom: 40px;
+      border-collapse: collapse;
+      background-color: #000;
+      text-align: center;
+    }
+    td,th {
+      padding: 20px;
+      border: 1px solid #ffd700;
+      font-size: 20px;
+      color: #fff;
+    }
+    td:first-child {
+      text-align: left;
+    }
+  }
+}

@@ -1,0 +1,54 @@
+@mixin breakpoint($point) {
+  @if $point == lg-hd {
+    @media (min-width: 1340px) {
+      @content;
+    }
+  }
+  @else if $point == lg {
+    @media (min-width: 1200px) and (max-width: 1339px){
+      @content;
+    }
+  }@else if $point == md {
+    @media (min-width: 992px) and (max-width: 1199px) {
+      @content;
+    }
+  }@else if $point == md-down {
+    @media (max-width: 1199px){
+      @content;
+    }
+  }@else if $point == md-up {
+    @media (min-width: 992px){
+      @content;
+    }
+  } @else if $point == sm {
+    @media (min-width: 768px) and (max-width: 991px) {
+      @content;
+    }
+  }@else if $point == sm-down {
+    @media (max-width: 991px){
+      @content;
+    }
+  }@else if $point == sm-up {
+    @media (min-width: 768px){
+      @content;
+    }
+  }@else if $point == xs {
+    @media (max-width: 767px) {
+      @content;
+    }
+  }
+  @else if $point == mxs {
+    @media (max-width: 600px) {
+      @content;
+    }
+  }
+  @else if $point == smxs {
+    @media (max-width: 500px) {
+      @content;
+    }
+  }@else if $point == sxs {
+    @media (max-width: 450px) {
+      @content;
+    }
+  }
+}

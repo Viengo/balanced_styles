@@ -1,0 +1,44 @@
+.footer {
+  padding-bottom: 25px;
+  background-color: #26292E;
+  .footer-title {
+    margin-bottom: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    @include breakpoint(extra-small){
+      text-align: center;
+    }
+  }
+  .footer-bottom-line {
+    padding-top: 30px;
+    .copyright {
+      font-weight: 300;
+      text-align: center;
+      line-height: 22px;
+      color: #b5b5b5;
+    }
+    .logo {
+      @include breakpoint(extra-small){
+        text-align: center;
+      }
+    }
+    .develop {
+      float: right;
+      display: block;
+      width: 165px;
+      font-size: 12px;
+      font-weight: 300;
+      text-align: right;
+      color: #b5b5b5;
+      @include breakpoint(extra-small){
+        float: none;
+        width: 100%;
+        margin: 10px auto 0;
+        text-align: center;
+      }
+      img {
+        max-width: 162px;
+      }
+    }
+  }
+}

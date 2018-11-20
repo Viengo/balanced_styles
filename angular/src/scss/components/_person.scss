@@ -1,0 +1,15 @@
+ .person {
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 22px;
+    font-size: 16px;
+    &::before {
+      content: "";
+      position: absolute;
+      top: -1px;
+      left: 0;
+      width: 14px;
+      height: 16px;
+      background-image: url("../images/icons/person.png");
+    }
+  }

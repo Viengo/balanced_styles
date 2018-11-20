@@ -1,0 +1,106 @@
+.catalog {
+  margin-bottom: 50px;
+  .catalog-item {
+    width: 357px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    background-color: #fff;
+    @include breakpoint(middle){
+      width: 293px;
+    }
+    @include breakpoint(small){
+      width: 293px;
+    }
+    @include breakpoint(extra-small){
+      width: 270px;
+    }
+    .item-img {
+      position: relative;
+      display: block;
+      height: 242px;
+      margin-bottom: 25px;
+      font-size: 0;
+      line-height: 242px;
+      text-align: center;
+      @include breakpoint(middle){
+        height: 198px;
+        line-height: 198px;
+      }
+      @include breakpoint(small){
+        height: 198px;
+        line-height: 198px;
+      }
+      @include breakpoint(extra-small){
+        height: 183px;
+        line-height: 183px;
+      }
+    }
+    img {
+      max-width: 100%;
+      vertical-align: middle;
+    }
+    .item-count {
+      position: absolute;
+      bottom: 0;
+      left: 28px;
+      font-size: 150px;
+      line-height: 0.71;
+      color: #fff;
+      @include breakpoint(middle){
+        font-size: 120px;
+      }
+      @include breakpoint(small){
+        font-size: 110px;
+      }
+      @include breakpoint(extra-small){
+        font-size: 90px;
+      }
+    }
+    .item-price {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      padding: 15px;
+      background-color: #ffca01;
+      line-height: 1;
+      font-size: 20px;
+      font-weight: 300;
+      color: #fff;
+      @include breakpoint(extra-small){
+        font-size: 18px;
+      }
+      span {
+        font-size: 36px;
+        @include breakpoint(small){
+          font-size: 32px;
+        }
+        @include breakpoint(extra-small){
+          font-size: 28px;
+        }
+      }
+    }
+      .item-title {
+        display: block;
+        height: 48px;
+        margin-bottom: 15px;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 1;
+        text-decoration: none;
+        color: #57a4c7;
+        &:hover {
+          color: #24586f;
+        }
+      }
+      .item-description {
+        overflow: hidden;
+        height: 105px;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #737c7e;
+        a {
+          color: #00bbff;
+        }
+      }
+    }
+}
