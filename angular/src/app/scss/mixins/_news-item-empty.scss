@@ -1,0 +1,81 @@
+@import "../variables";
+$items: (
+  position: false,
+  display: false,
+  margin: false,
+  padding: false,
+  border-right: false,
+  border-bottom: false,
+  background-color: false,
+  text-align: false
+);
+$date: (
+  position: false,
+  bottom: false,
+  left: false,
+  margin: false,
+  padding: false,
+  background-color: false,
+  font-size: false,
+  color: false
+);
+$title: (
+  overflow: false,
+  display: false,
+  height: false,
+  margin: false,
+  padding: false,
+  font-family: false,
+  font-size: false,
+  color: false
+);
+$news-text: (
+  overflow: false,
+  height: false,
+  padding: false,
+  font-size: false,
+  line-height: false,
+  color: false
+);
+@mixin item($class,$items: $items){
+  .#{$class}-item {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+    @include date;
+    @include title;
+  }
+}
+@mixin date($items: $date){
+  .date {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}
+@mixin title($items: $title){
+  .item-title {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}
+@mixin news-text($items: $news-text){
+  .news-text {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}

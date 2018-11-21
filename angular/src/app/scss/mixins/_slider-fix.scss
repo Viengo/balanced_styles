@@ -1,0 +1,8 @@
+@mixin slider-fix {
+  .slide {
+    display: none;
+    &:first-child,&.slick-slide {
+      display: block;
+    }
+  }
+}

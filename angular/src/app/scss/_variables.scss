@@ -1,0 +1,41 @@
+//Variables
+
+$font-family: 'Montserrat', sans-serif;
+$font-family-alt: $font-family;
+$font-family-validation: $font-family;
+$font-family-headings: $font-family;
+
+$font-size: 15px;
+$font-size-paragraph: 15px;
+$text-color: #171717;
+$color-1: #219892;
+$color-2: #0a3d40;
+$paragraph-margin: 25px; //margin-bottom
+$paragraph-height: 1.4;  //line-height
+$paragraph-color: $text-color;
+$list-image: false;  //list.png
+
+$heading-margin: 35, 35, 30, 30, 30, 25;
+$heading-font-size: 55, 46, 38, 30, 24, 18;
+$heading-font-weight: 600,600,600,600,600,600; // 1 = "normal"(400)
+$heading-uppercase: 0,0,0,0,0,0; // 0 = "none", 1 = "uppercase"
+$heading-text-align: l,l,l,l,l,l; // c = "center", l = "left", r = "right"
+$heading-color: #333333;
+
+// SM Heading sizes
+$sm-heading-change: false;
+$sm-heading-margin: 50, 35, false, false, false, false;
+$sm-heading-font-size: 40, 30, 24, false, false, false;
+// XS Heading sizes
+$xs-heading-change: true;
+$xs-heading-margin: false, false, false, false, false, false;
+$xs-heading-font-size: 36, 26, 22, 20, 18, 16;
+
+
+$background-color: #fff;
+$link-color: $color-1;
+$link-hover-color: false;
+
+$table-border-color: #d6d6d6;
+$table-color: #3c3c3c;
+$table-heading-color: false;

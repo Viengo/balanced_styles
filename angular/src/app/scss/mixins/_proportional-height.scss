@@ -1,0 +1,4 @@
+@mixin proportional($width, $height, $new-width) {
+  width: $new-width;
+  height: floor($new-width * $height * (1/$width) );
+}

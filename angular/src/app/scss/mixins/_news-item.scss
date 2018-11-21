@@ -1,0 +1,91 @@
+@import "../variables";
+
+$items: (
+  position: false,
+  display: block,
+  max-width: 360px,
+  margin: 0 auto 30px,
+  padding: 0 0 10px 0,
+  border-radius: false,
+  border:false,
+  border-top: false,
+  border-right: 1px solid #324f81,
+  border-bottom: 1px solid #324f81,
+  border-left: false,
+  background-color: #fff,
+  text-align: center
+);
+$date: (
+  position: absolute,
+  bottom:0,
+  left: 50%, width: 120px,
+  margin: 0 0 0 -60px,
+  padding: 5px 4px,
+  background-color: rgba(#000, 0.6),
+  font-size: 16px,
+  color: #fff
+);
+$news-title: (
+  overflow: hidden,
+  position: false,
+  display: block,
+  height: 50px,
+  margin: 0 0 10px 0,
+  padding: 0 20px,
+  font-family: $font-family-alt,
+  font-size: 25px,
+  font-weight: false,
+  line-height: false,
+  color: #db2228
+);
+$news-text: (
+  overflow: hidden,
+  height: 48px,
+  padding: 0 20px,
+  font-size: 16px,
+  line-height: 1.5,
+  color: #324f81
+);
+
+@mixin item($class,$items: $items){
+  .#{$class}-item {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @include news-date($class);
+    @include news-title($class);
+    @content;
+  }
+}
+@mixin news-date($items: $date){
+  .date {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}
+@mixin news-title($class, $items: $news-title){
+  .#{$class}-title {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}
+@mixin news-text($class, $items: $news-text){
+  .#{$class}-text {
+    @each $key, $value in $items {
+      @if ($value != false) {
+        #{$key}: #{$value}
+      }
+    }
+    @content;
+  }
+}

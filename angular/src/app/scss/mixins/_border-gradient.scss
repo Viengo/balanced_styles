@@ -1,0 +1,7 @@
+@mixin border-gradient($gradient){
+  box-sizing: border-box;
+  border: 20px solid transparent;
+  @include background-clip(padding-box, border-box);
+  @include background-origin(padding-box, border-box);
+  background-image: $gradient;
+}

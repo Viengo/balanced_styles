@@ -1,0 +1,8 @@
+@mixin drop-down-mobile($height){
+  width: 100%;
+  height: $height;
+  margin: 0;
+  &.menu-open {
+    overflow: visible;
+  }
+}
