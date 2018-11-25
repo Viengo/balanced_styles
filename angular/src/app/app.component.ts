@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {HttpClient} from "@angular/common/http";
-import {ActivatedRoute, Params, Router} from "@angular/router";
+import {ActivatedRoute, NavigationEnd, Params, Router} from "@angular/router";
 
 @Component({
     selector: 'app-root',
@@ -12,12 +12,14 @@ export class AppComponent {
     body: any = '';
 
     constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
-        console.log(router);
-        route.params.subscribe((params: Params) => {
-            console.log(params);
-            http.get('lesson1.php').subscribe((responce) => {
-                this.body = responce;
-            });
+        router.events.subscribe((val) => {
+            if (val instanceof NavigationEnd) {
+                http.post('index.php', '?url='+val.url).subscribe((responce) => {
+                    this.body = responce;
+                });
+            }
         });
+
+
     }
 }
