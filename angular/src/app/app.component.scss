@@ -1,21 +1,21 @@
-//@import "../scss/mixins";
-//@import "../scss/variables";
-//
-//.header {
-//  margin-bottom: 30px;
-//  padding: 15px 0;
-//  border-bottom: 2px solid #919292;
-//  .logo {
-//    display: inline-block;
-//    font-size: 22px;
-//    font-weight: 700;
-//    text-decoration: none;
-//    color: $text-color;
-//    &>span {
-//      color: #919292;
-//    }
-//  }
-//}
-//.main {
-//  padding: 0 25px;
-//}
+@import "scss/mixins";
+@import "scss/variables";
+
+.header {
+  margin-bottom: 30px;
+  padding: 15px 0;
+  border-bottom: 2px solid #919292;
+  .logo {
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: none;
+    color: $text-color;
+    &>span {
+      color: #919292;
+    }
+  }
+}
+.main {
+  padding: 0 25px;
+}

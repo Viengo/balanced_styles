@@ -1,22 +1,22 @@
-//@import "../../scss/mixins";
-//@import "../../scss/variables";
-//
-//.sidebar {
-//  width: 220px;
-//}
-//.sidebar-title {
-//  margin-bottom: 20px;
-//  font-size: 20px;
-//  font-weight: 700;
-//}
-//.nav {
-//  list-style: none;
-//  .item-0 {
-//    margin-bottom: 10px;
-//  }
-//  .link-0 {
-//    display: block;
-//    font-size: 16px;
-//    color: $text-color;
-//  }
-//}
+@import "../scss/mixins";
+@import "../scss/variables";
+
+.sidebar {
+  width: 220px;
+}
+.sidebar-title {
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.nav {
+  list-style: none;
+  .item-0 {
+    margin-bottom: 10px;
+  }
+  .link-0 {
+    display: block;
+    font-size: 16px;
+    color: $text-color;
+  }
+}
